@@ -1,0 +1,29 @@
+/* Genel Tarzlar */
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+/* Hero Section */
+header {
+    background: linear-gradient(to right, #007bff, #0056b3);
+}
+
+header h1 {
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+header p {
+    font-size: 1.25rem;
+}
+
+/* Card Tarzları */
+.card {
+    border: none;
+    border-radius: 8px;
+}
+
+.card-title {
+    font-size: 1.25rem;
+    font-weight: bold;
+}
